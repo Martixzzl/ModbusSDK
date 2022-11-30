@@ -1,0 +1,6 @@
+F:\ModBusTCP\modbustcp\EasyModbus\obj\Debug\ModbusSDK.csproj.AssemblyReference.cache
+F:\ModBusTCP\modbustcp\EasyModbus\obj\Debug\ModbusSDK.csproj.CoreCompileInputs.cache
+F:\ModBusTCP\modbustcp\EasyModbus\bin\Debug\ModbusSDK.dll
+F:\ModBusTCP\modbustcp\EasyModbus\bin\Debug\ModbusSDK.pdb
+F:\ModBusTCP\modbustcp\EasyModbus\obj\Debug\ModbusSDK.dll
+F:\ModBusTCP\modbustcp\EasyModbus\obj\Debug\ModbusSDK.pdb
